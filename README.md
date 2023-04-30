@@ -92,3 +92,5 @@ Uygun veri türlerini ve kısıtlamaları kullanarak migrationları Knex'te "dat
 - Yarı tamamlanmış kodun veritabanlarınızı bozuk durumda bıraktığından şüpheleniyorsanız, "test.db3" ve "database.db3" dosyalarını silin ve migrationları ve testleri yeniden çalıştırın.
 - Çözümünüzde en iyi pratikleri takip etmeniz, temiz ve profesyonel sonuçlar üretmeniz esastır.
 - Çalışmanızı gözden geçirmek, iyileştirmek ve değerlendirmek için zaman planlayın ve temel profesyonel kontrollerinizi gerçekleştirin.
+
+https://drawsql.app/teams/workintech/diagrams/projects
